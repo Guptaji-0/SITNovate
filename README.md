@@ -1,9 +1,5 @@
 # SITNovate
 
-No worries! If you didn't include a `requirements.txt` file, we can modify the **README** accordingly.  
-
-Here’s the updated **README.md** without `pip install -r requirements.txt` and with a manual installation approach instead.
-
 ---
 
 # 🌾 AI-Powered Crop Recommendation System /  AgroTechHub 
@@ -147,5 +143,3 @@ streamlit run app.py
 🚀 Happy Coding! 🚀  
 
 ---
-
-This version **removes the `pip install -r requirements.txt` step** and instead provides **manual installation instructions** for all required packages. Let me know if you need further edits! 🚀
